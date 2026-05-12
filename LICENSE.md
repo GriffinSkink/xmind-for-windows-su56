@@ -1,4 +1,4 @@
-# 
+# automatic Obsidian for Windows Integration | export-options + collaboration is the best Obsidian for Windows integration, featuring export-options and collaboration. Powerful,
 
 
 
